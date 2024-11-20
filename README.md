@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Janvi Yadav!  
 
 **Welcome to my GitHub profile!**  
-🌟 **B.Tech CSE Student** at [Dev Bhoomi Uttarakhand University](https://www.dbuglobal.edu.in)  
+🌟 **B.Tech CSE Student** at [Dev Bhoomi Uttarakhand University](https://www.dbuu.ac.in)  
 📚 **Currently in V Semester**  
 
 ---
